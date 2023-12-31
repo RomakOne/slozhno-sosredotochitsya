@@ -17,4 +17,5 @@
   --background-color: #FFF1F7;
   --button-hover-color: rgba(50, 49, 45, 0.40);
   background-image: url(../images/cover-image-light.png);
+  --rec-color: transparent;
 }
