@@ -155,7 +155,7 @@
   width: 100%;
   color: var(--big-title-color);
   text-shadow: 4px 4px 0px #FF0070;
-  font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+  font-size: clamp(7.31rem, 0.5625rem + 14.4531vw, 9.8125rem);
   font-weight: 700;
   line-height: 82.5%;
   letter-spacing: normal;
